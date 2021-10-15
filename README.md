@@ -1,4 +1,8 @@
-# HELPER FUNCTIONS
+# Classifying plastics found in sea water
+
+6 different types of plastic in the sea are identified which would help prevent or reduce their usage and conserve marine life
+
+## HELPER FUNCTIONS
 
 To read a csv file and convert into numpy array, you can use genfromtxt of the numpy package.
 For Example:
